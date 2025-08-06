@@ -40,3 +40,10 @@ O Husky é uma ferramenta essencial para projetos JavaScript/TypeScript que atua
   - Bloqueia commits com erros de lint ou testes falhando
   - Evita código mal formatado no repositório
 
+## Jest
+
+Usando o Jest para testes unitários na metodologia TDD
+
+```
+npm i -D jest @types/jest ts-jest
+```
