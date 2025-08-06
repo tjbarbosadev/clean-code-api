@@ -11,3 +11,7 @@
 
 [optional footer(s)]
 ```
+
+[git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter)
+
+Garante o padrão 'convencional commit' nas mensagens
